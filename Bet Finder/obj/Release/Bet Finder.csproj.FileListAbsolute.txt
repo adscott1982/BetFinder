@@ -1,0 +1,51 @@
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\Bet Finder.exe.config
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\Bet Finder.exe
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\Bet Finder.pdb
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\HtmlAgilityPack.dll
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\HtmlAgilityPack.pdb
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\bin\Release\HtmlAgilityPack.xml
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet_Finder.BetFinder.resources
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet_Finder.Properties.Resources.resources
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet Finder.csproj.GenerateResource.Cache
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet Finder.exe
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet Finder.pdb
+C:\Users\MAIN\Desktop\Projects\Bet Finder\Bet Finder\obj\Release\Bet Finder.csprojResolveAssemblyReference.cache
+C:\Users\ascott.VRT\Google Drive\Andy Backup\Bet Finder 20151109 - 2\Bet Finder\bin\Release\Bet Finder.exe.config
+C:\Users\ascott.VRT\Google Drive\Andy Backup\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Google Drive\Andy Backup\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\Bet Finder.exe.config
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\HtmlAgilityPack.dll
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\bin\Release\HtmlAgilityPack.xml
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.csprojResolveAssemblyReference.cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet_Finder.BetFinder.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet_Finder.Properties.Resources.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151109 - 2\Bet Finder\obj\Release\Bet Finder.csproj.GenerateResource.Cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\Bet Finder.exe.config
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\HtmlAgilityPack.dll
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\bin\Release\HtmlAgilityPack.xml
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet Finder.csprojResolveAssemblyReference.cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet_Finder.BetFinder.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet_Finder.Properties.Resources.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151122\Bet Finder\obj\Release\Bet Finder.csproj.GenerateResource.Cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\Bet Finder.exe.config
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\Bet Finder.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\HtmlAgilityPack.dll
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\bin\Release\HtmlAgilityPack.xml
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet Finder.csprojResolveAssemblyReference.cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet_Finder.BetFinder.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet_Finder.Properties.Resources.resources
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet Finder.csproj.GenerateResource.Cache
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet Finder.exe
+C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Release\Bet Finder.pdb
