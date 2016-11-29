@@ -25,3 +25,12 @@ C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\x64\Release\Bet F
 C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\Bet Finder.exe.config
 C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet Finder.exe
 C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet Finder.pdb
+C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\Bet Finder.exe
+C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\Bet Finder.pdb
+C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\HtmlAgilityPack.dll
+C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\HtmlAgilityPack.pdb
+C:\Repositories\Bet Finder\Bet Finder\bin\x64\Release\HtmlAgilityPack.xml
+C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet Finder.csprojResolveAssemblyReference.cache
+C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet_Finder.BetFinder.resources
+C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet_Finder.Properties.Resources.resources
+C:\Repositories\Bet Finder\Bet Finder\obj\x64\Release\Bet Finder.csproj.GenerateResource.Cache
