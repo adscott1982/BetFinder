@@ -583,8 +583,6 @@ namespace Bet_Finder
 
         #endregion
 
-
-
         #region Utility
 
         public void SafeInvokeFormControl(Control control, Action action)
@@ -637,7 +635,6 @@ namespace Bet_Finder
         }
 
         #endregion
-
 
     }
 }

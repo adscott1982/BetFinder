@@ -39,8 +39,6 @@ namespace Bet_Finder
 
         const string eventTableTag = "//table[@class='eventTable ']";
         const string eventTableHeaderTag = "//tr[@class='eventTableHeader']";
-        //const string eventTableRowTag = "//tr[@class='eventTableRow bgc']";
-        //const string eventTableRowTag = "//tr[@class='diff-row eventTableRow bc']";
         const string eventTableRowTag = "//tr[contains(@class,'eventTableRow')]";
 
         const string dateTag = "data-time";
@@ -56,19 +54,6 @@ namespace Bet_Finder
         const string noBetTag = "np o";
 
         //// URL Constants
-
-        //const char SLASH = '/';
-        //const char WORD_SEPARATOR_URL = '-';
-        //const char WORD_SEPARATOR_NEW = ' ';
-
-        //// Date Identifiers
-        //const string DATE_IDENTIFIER_START = "<span class=\"date\">";
-        //const string DATE_IDENTIFIER_END = "</span>";
-
-        //// Result (event) Identifiers
-
-        //const string EVENT_IDENTIFIER_START = "<tr class=\"eventTableRow";
-        //const string EVENT_IDENTIFIER_END = "</tr>";
 
         // Constructor
 

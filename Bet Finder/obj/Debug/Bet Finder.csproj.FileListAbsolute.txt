@@ -70,3 +70,15 @@ C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Debug\Bet Finder.
 C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Debug\Bet_Finder.BetFinder.resources
 C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Debug\Bet_Finder.Properties.Resources.resources
 C:\Users\ascott.VRT\Desktop\Bet Finder 20151127\Bet Finder\obj\Debug\Bet Finder.csproj.GenerateResource.Cache
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet Finder.csprojResolveAssemblyReference.cache
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet_Finder.BetFinder.resources
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet_Finder.Properties.Resources.resources
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet Finder.csproj.GenerateResource.Cache
+D:\Source\BetFinder\Bet Finder\bin\Debug\Bet Finder.exe.config
+D:\Source\BetFinder\Bet Finder\bin\Debug\Bet Finder.exe
+D:\Source\BetFinder\Bet Finder\bin\Debug\Bet Finder.pdb
+D:\Source\BetFinder\Bet Finder\bin\Debug\HtmlAgilityPack.dll
+D:\Source\BetFinder\Bet Finder\bin\Debug\HtmlAgilityPack.pdb
+D:\Source\BetFinder\Bet Finder\bin\Debug\HtmlAgilityPack.xml
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet Finder.exe
+D:\Source\BetFinder\Bet Finder\obj\Debug\Bet Finder.pdb
